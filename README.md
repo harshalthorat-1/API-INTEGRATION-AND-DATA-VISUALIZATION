@@ -30,12 +30,10 @@ DESCRIPTION OF TASK
 4. **Date Formatting**:
    - **Matplotlib Dates (`mdates`)**: Manages date and time formatting to ensure clear, non-overlapping x-axis labels.
 
- Workflow:
-- The script sends a request to the OpenWeatherMap API, retrieves weather data, and processes it into a Pandas DataFrame.
-- Data is filtered to include only current and past dates.
-- Visualizations are generated using Seaborn and Matplotlib to display temperature and humidity trends, with properly formatted date labels.
+# OUTPUT OF THE TASK 
+![image](https://github.com/user-attachments/assets/fc06c90e-94b9-4351-ab8f-883a28f2bdff)
 
-This project showcases the integration of API data retrieval with effective visualization, emphasizing clarity and usability.
+
 
 
 
