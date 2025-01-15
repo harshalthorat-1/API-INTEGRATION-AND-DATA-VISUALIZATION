@@ -25,6 +25,7 @@ The Python script for automated report generation.
 A sample PDF report showcasing the output.
 
 # OUTPUT OF THE TASK 
+![image](https://github.com/user-attachments/assets/c31b18c3-d556-48ac-ad96-b5860dd18eba)
 
 
 
